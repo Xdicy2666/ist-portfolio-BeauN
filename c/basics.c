@@ -2,7 +2,7 @@
 
 int main()
 {
-	printf("this is my c basics file\n")
+	printf("this is my c basics file\n");
 	
 		int num;
 		printf("Enter a number: ");
